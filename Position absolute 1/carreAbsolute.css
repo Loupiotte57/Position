@@ -1,0 +1,80 @@
+
+
+h1{
+    color: brown;
+}
+
+
+body{
+
+    margin :auto;
+    width: 500px;
+    margin-top: 100px;
+}
+
+.conteneur{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 5px 10px rgb(200, 199, 199);
+    width: 440px;
+    height: 440px;
+    position: absolute;
+}
+
+
+.carreclair{
+    background-color: rgb(23, 193, 223);
+    border: 2px solid black;
+    width: 420px;
+    height: 420px;
+    position: absolute;
+    top: 7px;
+    left: 7px;
+}
+
+
+.vert{
+    background-color:darkgreen;
+    border: 7px solid white;
+    position: absolute;
+    top:30px;
+    left: 30px;
+    width: 170px;
+    height: 170px; 
+}
+
+
+.bleu{
+    background-color:darkblue;
+    border: 7px solid white;
+    position: absolute;
+    top:30px;
+    right: 30px;
+    width: 170px;
+    height: 170px; 
+}
+
+
+.brun{
+    background-color:sienna;
+    border: 7px solid white;
+    position: absolute;
+    bottom:30px;
+    left: 30px;
+    width: 170px;
+    height: 170px; 
+}
+
+
+.jaune{
+    background-color: yellow;
+    border: 7px solid white;
+    position: absolute;
+    bottom:30px;
+    right: 30px;
+    width: 170px;
+    height: 170px; 
+}
+
+
+
+

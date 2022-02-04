@@ -1,0 +1,74 @@
+
+
+h1{
+color:white;
+}
+
+
+body{
+background-color:darkslategray;
+margin :auto;
+width: 500px;
+margin-top: 100px;
+}
+
+
+.conteneur{
+background-color: rgb(255, 255, 255);
+box-shadow: 0px 0px 5px 10px rgb(200, 199, 199);
+width: 435px;
+height: 400px;
+position: absolute; 
+}
+
+
+.clair{
+background-color:navy;
+border: 1px solid white; 
+position: absolute;
+top: 5px;
+left: 5px;
+width: 425px;
+height: 50px; 
+}
+
+
+.vert{
+background-color:darkslategray;
+border: 3px solid navy;
+position: absolute;
+top:120px;
+left: 150px;
+width: 130px;
+height: 130px; 
+}
+
+
+.bleu{
+background-color:navy;
+border: 3px solid white;
+width: 70px;
+height: 70px; 
+opacity: 1;
+position: absolute;
+top: 150px;
+left: 180px;
+}
+
+
+
+.brun{
+background-color:sienna;
+border: 3px solid darkgoldenrod;
+width: 70px;
+height: 70px; 
+position: absolute;
+right: 70px;
+top:280px;
+    
+}
+
+
+
+
+
